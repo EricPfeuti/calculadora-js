@@ -1,3 +1,5 @@
+// EXPLICAÇÃO REALIZADA POR MIM para ENTENDIMENTO FUTURO
+
 // Obtém o elemento HTML com o ID "history" e armazena na variável `historyField`.
 // Este campo exibirá o histórico das operações.
 let historyField = document.getElementById("history");
