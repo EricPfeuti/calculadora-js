@@ -1,5 +1,8 @@
 # CALCULADORA em JAVASCRIPT
-<img src="images/calculadora.PNG" alt="Imagem Calculadora">
+
+<div align="center">
+  <img src="images/calculadora.PNG" alt="Imagem Calculadora">
+</div>
 
 ## Linguagens Utilizadas:
 <div style="display: inline_block;">
