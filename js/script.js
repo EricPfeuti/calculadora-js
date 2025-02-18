@@ -18,8 +18,7 @@ function clearAll() {
 
 // Função para apagar o último caractere do campo de resultado.
 function deleteLast() {
-    // Tenta usar `slice` para remover o último caractere do valor atual do campo de resultado,
-    resultField.value = resultField.value.slice(0, -1); // Correção: Remova o `-` antes de `resultField.value`.
+    resultField.value = resultField.value.slice(0, -1);
 }
 
 // Função para adicionar um valor ao campo de resultado.
